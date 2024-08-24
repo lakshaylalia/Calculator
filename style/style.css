@@ -73,6 +73,8 @@ input:focus{
 }
 
 
-@media (max-size:1400px){
-
+@media (max-width:800px){
+    .inputContainer{
+        width: 60%;
+    }
 }
