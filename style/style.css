@@ -105,15 +105,21 @@ input:focus{
     }
 }
 
+@media (max-width:500px){
+    .inputContainer{
+        width: 75%;
+    }
+}
+
 @media (max-width:400px){
     .inputContainer{
-        width: 70%;
+        width: 80%;
     }
 }
 
 
 @media (max-width:300px){
     .inputContainer{
-        width: 75%;
+        width: 85%;
     }
 }
